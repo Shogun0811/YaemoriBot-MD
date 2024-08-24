@@ -9,7 +9,7 @@ import moment from 'moment-timezone';
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botnumber = '' //Ejemplo: +573218138672
+global.botnumber = '221760263631' //Ejemplo: +573218138672
 global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
@@ -22,12 +22,12 @@ global.owner = [
 ['573027866596']]
 
 global.suittag = ['573012482597']
-global.prems = []
+global.prems = ['221760263631']
 global.mods = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '⪛✰ 𝐀𝐢 𝐘𝐚𝐞𝐦𝐨𝐫𝐢 - 𝐌𝐃 ✰⪜'
-global.author = '𝖮𝖿𝖼.𝖣𝗂𝖾𝗀𝗈 👑'
+global.packname = '⪛✰BICOM LAB ✰⪜'
+global.author = '👑'
 global.wm = '𝗬𝗮𝗲𝗺𝗼𝗿𝗶 𝗕𝗼𝘁 - 𝗠𝗗 🌻'
 global.titulowm = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 - 𝗠𝗗 🍓'
 global.titulowm2 = '𝖠𝗂 𝖸𝖺𝖾𝗆𝗈𝗋𝗂 - 𝖬𝖣 ✨'
